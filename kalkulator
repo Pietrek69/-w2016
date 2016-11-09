@@ -1,0 +1,26 @@
+-włącz kalkulator
+- wyświetl liczbę 0 
+- wybierz liczbe rozpoczynajaca działanie: a z przedziału cyfr {0,1,2,3,4,5,6,7,8,9} (liczba cyfr w liczbie - maks 16)
+- wybierz rodzaj działania
+-- jeżeli ( - ) to
+-- wprowadź liczbę b z przedziału cyfr {0,1,2,3,4,5,6,7,8,9} (liczba cyfr w liczbie - maks 16) i odejmij liczbę b od liczby a
+--jeżeli ( * ) to 
+-- wprowadź liczbę b z przedziału cyfr {0,1,2,3,4,5,6,7,8,9} (liczba cyfr w liczbie - maks 16) i pomnóż liczbę b z liczbą a
+--jeżeli ( / ) to
+-- wprowadź liczbę b z przedziału cyfr {0,1,2,3,4,5,6,7,8,9} (liczba cyfr w liczbie - maks 16) i podziel liczbę a przez liczbę b
+--jeżeli ( + ) to
+-- wprowadź liczbę b z przedziału cyfr {0,1,2,3,4,5,6,7,8,9} (liczba cyfr w liczbie - maks 16) i dodaj liczbę b do liczby a
+--jeżeli ( % ) to wykonaj działanie
+--jeżeli (1/a) to podziel liczbę 1 przez wcześniej wprowadzoną liczbę a
+--jeżeli (+/-) to pomnóż wprowadzoną liczbę przez liczbę -1
+---- pokaż wynik ( = ) --> jeśli niepoprawne działanie : błąd --> 
+--jeżeli pierwiastek to spierwiastkuj liczbę a
+---wyświetl wynik ( = )
+----jeśli chcesz wyzerować wszystkie rejestry kalkulatora ( C )
+----jeśli chcesz wyzerować tylko ostatnią wprowadzoną liczbę po wielokrotnym naciśnięciu wówczas ( CE )
+--jeżeli chcesz usunąć ostatnią wyświetlaną cyfre użyj ( <-- )
+--jeżeli (MS) to zapisz a w pamięci kalkulatora
+--jeżeli (MR) to wyświetl liczbę z pamięci kalkulatora
+--jeżeli (MC) to kasuj liczbę z pamięci kalkulatora
+--jeżeli (M+) to dodaj liczbę z wyświetlacza do pamięci wbudowanej w kalkulator
+--jeżeli (M-) to odejmij liczbę z wyświetlacza od pamięci wbudowanej w kalkulator
